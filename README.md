@@ -1,2 +1,2 @@
 # Hausarbeit-Anglizismen-und-Onlinekultur
-Material zur Hausarbeit
+Für die Ausführung des Codes wurde Node.js intalliert
